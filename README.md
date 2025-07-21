@@ -14,3 +14,6 @@ who want to professionally present their work and experience online.
 
 
 #output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e9ef431d-b766-42db-b604-199b040575d3" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0d0684a8-75c4-48b9-9fc4-493c2fb7721f" />
